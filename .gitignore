@@ -1,0 +1,8 @@
+*.bak
+.settings
+.classpath
+.project
+.springBeans
+target
+*.log
+domains
